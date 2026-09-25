@@ -54,6 +54,7 @@ Documentation, checklists, templates and small tools from the same practice. MIT
 
 | Repository | What it is |
 |---|---|
+| [faultline](https://github.com/thefgxdev/faultline) | **Find the failure nobody finds.** Zero-dependency auditor for the boundaries in a codebase: timeouts, retries, idempotency, swallowed errors, injection, secrets, cookies, tenant isolation. `npx github:thefgxdev/faultline .` |
 | [system-design-playbook](https://github.com/thefgxdev/system-design-playbook) | Patterns and decision records: outbox, idempotency, multi-tenancy, capacity, migrations, degradation |
 | [architecture-review-checklist](https://github.com/thefgxdev/architecture-review-checklist) | The twelve review questions, code/infra/security/privacy checklists, audit report template |
 | [production-ai-checklist](https://github.com/thefgxdev/production-ai-checklist) | RAG, agents, evals, guardrails, privacy, cost: what makes an AI feature work on Monday |
