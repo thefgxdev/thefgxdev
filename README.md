@@ -48,6 +48,23 @@
 - **The team keeps the knowledge.** Architecture decision records, documentation, review sessions until everyone agrees with the decisions. Code stays in your repository.
 - **Zero failures I am comfortable ignoring.** Every known failure gets an owner.
 
+## Open source
+
+Documentation, checklists, templates and small tools from the same practice. MIT licensed.
+
+| Repository | What it is |
+|---|---|
+| [system-design-playbook](https://github.com/thefgxdev/system-design-playbook) | Patterns and decision records: outbox, idempotency, multi-tenancy, capacity, migrations, degradation |
+| [architecture-review-checklist](https://github.com/thefgxdev/architecture-review-checklist) | The twelve review questions, code/infra/security/privacy checklists, audit report template |
+| [production-ai-checklist](https://github.com/thefgxdev/production-ai-checklist) | RAG, agents, evals, guardrails, privacy, cost: what makes an AI feature work on Monday |
+| [postgres-operations-runbook](https://github.com/thefgxdev/postgres-operations-runbook) | Backups you restored, migrations without locks, performance, hot partitions, first fifteen minutes |
+| [incident-response-runbook](https://github.com/thefgxdev/incident-response-runbook) | Severity, roles, first fifteen minutes, communication templates, blameless postmortems |
+| [nextjs-app-router-patterns](https://github.com/thefgxdev/nextjs-app-router-patterns) | Server/client boundary, safe server actions, caching, errors, structure |
+| [web-security-headers](https://github.com/thefgxdev/web-security-headers) | CSP, HSTS and friends for Apache, Nginx, Cloudflare and Next.js |
+| [seo-aeo-audit](https://github.com/thefgxdev/seo-aeo-audit) | Zero-dependency static-site audit and a guide to llms.txt and answer engines |
+| [adr-tools](https://github.com/thefgxdev/adr-tools) | Architecture Decision Records: template, examples, CLI |
+| [awesome-system-design](https://github.com/thefgxdev/awesome-system-design) | Curated resources, one line on why for each |
+
 ## Selected writing
 
 Notes on System Design, architecture, security, AI in production and science, in English and Portuguese. [All 150+ articles →](https://fgxdev.com/articles/)
