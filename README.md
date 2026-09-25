@@ -21,6 +21,16 @@
 
 ---
 
+## Featured · faultline
+
+> **Find the failure nobody finds.** Six hundred systems taught me one sentence: the failure is in a boundary someone trusted. [faultline](https://github.com/thefgxdev/faultline) reads those boundaries for you before the review starts: outbound calls without timeouts, retries without backoff, money endpoints without idempotency keys, swallowed errors, SQL and shell built from strings, secrets in code, cookies without flags, queries that forget the tenant. Zero dependencies, one command, a report with the fix for every finding, an exit code for CI and a GitHub Action.
+>
+> ```bash
+> npx github:thefgxdev/faultline . --fail-on high
+> ```
+>
+> [Read the rules →](https://github.com/thefgxdev/faultline/blob/main/docs/rules.md) · [Star it if it found something ★](https://github.com/thefgxdev/faultline)
+
 ## What I do
 
 | | |
