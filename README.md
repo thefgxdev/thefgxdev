@@ -60,7 +60,7 @@
 
 ## Open source
 
-Documentation, checklists, templates and small tools from the same practice. MIT licensed.
+Documentation, checklists, templates and tools from the same practice. Documentation under Apache-2.0; faultline under AGPL-3.0. Authorship preserved in every file.
 
 | Repository | What it is |
 |---|---|
