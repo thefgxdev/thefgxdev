@@ -20,11 +20,6 @@
 🔹 **[Memorial Pedro Moretti Guedes](https://pedromorettiguedes.com.br)** - A trilingual digital memorial for my father, a doctor who treated for free those who could not pay
 🔹 **[Play checkers against me](https://fgxdev.com/checkers/)** - Brazilian draughts against my particle CGI. Hard to beat
 
-### 📌 Featured Repos
-🔹 **[pedro-moretti-guedes](https://github.com/thefgxdev/pedro-moretti-guedes)** - Static trilingual memorial site generator (Node, zero framework, 100% SEO)
-🔹 **[fgxdev.com](https://github.com/thefgxdev/fgxdev.com)** - My site: static generator, particle portrait, checkers AI, SEO/AEO audit script
-🔹 **[awesome-system-design](https://github.com/thefgxdev/awesome-system-design)** - Curated resources to go deep in ⚡ System Design ⚡
-
 📝 **[150+ articles](https://fgxdev.com/articles/)** on System Design, architecture, security, AI in production and science, in English and Portuguese
 
 ### 🌐 Let's Connect! **[fgxdev.com](https://fgxdev.com)** · **[X](https://x.com/thefgxdev)** · **[Instagram](https://instagram.com/eufeguedes)** · **[LinkedIn](https://www.linkedin.com/in/fgxdev)** · contato@fgxdev.com
