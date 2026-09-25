@@ -21,15 +21,15 @@
 
 ---
 
-## Featured · faultline
+## Featured · Faultline
 
-> **Find the failure nobody finds.** Six hundred systems taught me one sentence: the failure is in a boundary someone trusted. [faultline](https://github.com/thefgxdev/faultline) reads those boundaries for you before the review starts: outbound calls without timeouts, retries without backoff, money endpoints without idempotency keys, swallowed errors, SQL and shell built from strings, secrets in code, cookies without flags, queries that forget the tenant. Zero dependencies, one command, a report with the fix for every finding, an exit code for CI and a GitHub Action.
+> **Find the failure nobody finds.** Six hundred systems taught me one sentence: the failure is in a boundary someone trusted. [Faultline](https://github.com/thefgxdev/faultline) reads those boundaries for you before the review starts: outbound calls without timeouts, retries without backoff, money endpoints without idempotency keys, swallowed errors, SQL and shell built from strings, secrets in code, cookies without flags, queries that forget the tenant. Zero dependencies, one command, a report with the fix for every finding, an exit code for CI and a GitHub Action.
 >
 > ```bash
 > npx github:thefgxdev/faultline . --fail-on high
 > ```
 >
-> [Read the rules →](https://github.com/thefgxdev/faultline/blob/main/docs/rules.md) · [Star it if it found something ★](https://github.com/thefgxdev/faultline)
+> [Official page →](https://fgxdev.com/faultline/) · [Read the rules →](https://github.com/thefgxdev/faultline/blob/main/docs/rules.md) · [Star it if it found something ★](https://github.com/thefgxdev/faultline)
 
 ## What I do
 
@@ -44,7 +44,7 @@
 
 | Project | What it is | Role |
 |---|---|---|
-| **ELUCENIA** · [elucenia.org](https://elucenia.org) | A global medical and scientific network to accelerate discovery. Every hypothesis needs evidence, every advance needs validation, every decision needs a human who answers for it. What it does stays inside the lab until it is validated. | Founder, Systems Architect |
+| **Elucenia** · [elucenia.org](https://elucenia.org) | A global medical and scientific network to accelerate discovery. Every hypothesis needs evidence, every advance needs validation, every decision needs a human who answers for it. What it does stays inside the lab until it is validated. | Founder, Systems Architect |
 | **NextFoot** | A football game built from the engine up: match simulation, real-time state, multiplayer-ready architecture. | Creator, Systems Architect |
 | **Cravamos** · [cravamos.com.br](https://cravamos.com.br) | News and services portal run by eleven specialised AI agents under human editorial responsibility, with identified sources. | Founder, Architect |
 | **Facívia** | Multi-tenant CRM for B2B operations: pipeline, accounts, automation, integrations. | Systems Architect, Lead Engineer |
@@ -60,11 +60,11 @@
 
 ## Open source
 
-Documentation, checklists, templates and tools from the same practice. Documentation under Apache-2.0; faultline under AGPL-3.0. Authorship preserved in every file.
+Documentation, checklists, templates and tools from the same practice. Documentation under Apache-2.0; Faultline under AGPL-3.0. Authorship preserved in every file.
 
 | Repository | What it is |
 |---|---|
-| [faultline](https://github.com/thefgxdev/faultline) | **Find the failure nobody finds.** Zero-dependency auditor for the boundaries in a codebase: timeouts, retries, idempotency, swallowed errors, injection, secrets, cookies, tenant isolation. `npx github:thefgxdev/faultline .` |
+| [Faultline](https://github.com/thefgxdev/faultline) | **Find the failure nobody finds.** Zero-dependency auditor for the boundaries in a codebase: timeouts, retries, idempotency, swallowed errors, injection, secrets, cookies, tenant isolation. `npx github:thefgxdev/faultline .` |
 | [system-design-playbook](https://github.com/thefgxdev/system-design-playbook) | Patterns and decision records: outbox, idempotency, multi-tenancy, capacity, migrations, degradation |
 | [architecture-review-checklist](https://github.com/thefgxdev/architecture-review-checklist) | The twelve review questions, code/infra/security/privacy checklists, audit report template |
 | [production-ai-checklist](https://github.com/thefgxdev/production-ai-checklist) | RAG, agents, evals, guardrails, privacy, cost: what makes an AI feature work on Monday |
@@ -102,7 +102,7 @@ Based in Toledo, Paraná, Brazil. On site in western Paraná, São Paulo and the
 
 Engenheiro de Software e Arquiteto de Sistemas, especialista em System Design. Full stack no sentido literal: front-end, back-end e a infraestrutura por baixo. Mais de 600 sistemas construídos, revisados ou auditados em dez anos e 19 países. Conduzo a FGXDEV em Toledo, Paraná, e atendo Cascavel, o oeste do Paraná, São Paulo e as capitais presencialmente, e o mundo todo remotamente.
 
-Construo a ELUCENIA, uma cadeia médica e científica global para acelerar a descoberta; o NextFoot, um jogo de futebol em simulação em tempo real; e a Cravamos, um portal em que onze agentes de IA publicam sob responsabilidade editorial humana.
+Construo a Elucenia, uma cadeia médica e científica global para acelerar a descoberta; o NextFoot, um jogo de futebol em simulação em tempo real; e a Cravamos, um portal em que onze agentes de IA publicam sob responsabilidade editorial humana.
 
 [fgxdev.com/pt](https://fgxdev.com/pt/) · [serviços](https://fgxdev.com/pt/services/) · [artigos](https://fgxdev.com/pt/articles/) · contato@fgxdev.com
 </details>
