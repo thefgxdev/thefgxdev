@@ -44,7 +44,7 @@
 
 | Project | What it is | Role |
 |---|---|---|
-| **Elucenia** · [elucenia.org](https://elucenia.org) · [github.com/Elucenia](https://github.com/Elucenia) | One mission: cancer. A global scientific network that connects people, evidence and in-house agents to turn scattered knowledge into traceable investigations open to human review. The Discovery Engine goes from signals to evidence, contradictions, gaps, hypotheses and investigations; each inference keeps its origin and its limits. AI supports; science remains human. Plus 216 open source clinical calculators and scores for any medical website. | Founder, Systems Architect |
+| **ELUCENIA** · [elucenia.org](https://elucenia.org) · [github.com/Elucenia](https://github.com/Elucenia) | One mission: cancer. A global scientific network that connects people, evidence and in-house agents to turn scattered knowledge into traceable investigations open to human review. The Discovery Engine goes from signals to evidence, contradictions, gaps, hypotheses and investigations; each inference keeps its origin and its limits. AI supports; science remains human. Plus 216 open source clinical calculators and scores for any medical website. | Founder, Systems Architect |
 | **NextFoot** | A football game built from the engine up: match simulation, real-time state, multiplayer-ready architecture. | Creator, Systems Architect |
 | **Cravamos** · [cravamos.com.br](https://cravamos.com.br) | News and services portal run by eleven specialised AI agents under human editorial responsibility, with identified sources. | Founder, Architect |
 | **Facívia** | Multi-tenant CRM for B2B operations: pipeline, accounts, automation, integrations. | Systems Architect, Lead Engineer |
@@ -102,7 +102,7 @@ Based in Toledo, Paraná, Brazil. On site in western Paraná, São Paulo and the
 
 Engenheiro de Software e Arquiteto de Sistemas, especialista em System Design. Full stack no sentido literal: front-end, back-end e a infraestrutura por baixo. Mais de 600 sistemas construídos, revisados ou auditados em dez anos e 19 países. Conduzo a FGXDEV em Toledo, Paraná, e atendo Cascavel, o oeste do Paraná, São Paulo e as capitais presencialmente, e o mundo todo remotamente.
 
-Construo a Elucenia, uma rede científica global com uma missão, o câncer: pessoas, evidências e agentes próprios conectados para transformar conhecimento disperso em investigações rastreáveis e abertas à revisão humana, mais 216 calculadoras e escores clínicos open source ([elucenia.org](https://elucenia.org/pt-br)); o NextFoot, um jogo de futebol em simulação em tempo real; e a Cravamos, um portal em que onze agentes de IA publicam sob responsabilidade editorial humana.
+Construo a ELUCENIA, uma rede científica global com uma missão, o câncer: pessoas, evidências e agentes próprios conectados para transformar conhecimento disperso em investigações rastreáveis e abertas à revisão humana, mais 216 calculadoras e escores clínicos open source ([elucenia.org](https://elucenia.org/pt-br)); o NextFoot, um jogo de futebol em simulação em tempo real; e a Cravamos, um portal em que onze agentes de IA publicam sob responsabilidade editorial humana.
 
 [fgxdev.com/pt](https://fgxdev.com/pt/) · [serviços](https://fgxdev.com/pt/services/) · [artigos](https://fgxdev.com/pt/articles/) · contato@fgxdev.com
 </details>
